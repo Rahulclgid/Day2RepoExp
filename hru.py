@@ -1,1 +1,1 @@
-printf("how are you")
+printf("how was your day")
